@@ -11,6 +11,7 @@ Displays countdown timer in an element.
 
 4.*_Quotes Slideshow_*
 
-5.*_Typing Effect_*
+5.*_Typewriter_*
+Displays typing effect.
 
 
